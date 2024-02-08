@@ -6,4 +6,4 @@ Potential further applications: could be expanded with a more recent dataset (Th
 
 In our notebook, we first explore general features of the dataset, and then focus on analyzing Albuquerque as a standout city for shootings-per-capita. Similar analyses conducted on multiple cities and states as part of a longer-term project could easily be used to create a "heatmap" denoting "danger zones" across the US: could add a feature that allows a user to go granular and view a state-wise heatmap or a within-city heatmap etc.
 
-Enjoy! For more about us, visit our LinkedIn profiles [here](https://linkedin.com/in/kkrishna23) and [here](https:linkedin.com/in/hannah-wendling-605366292).
+Enjoy! For more about us, visit our LinkedIn profiles [here](https://linkedin.com/in/kkrishna23) and [here](https://www.linkedin.com/in/hannah-wendling-605366292).
