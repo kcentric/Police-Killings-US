@@ -1,6 +1,6 @@
 Exploratory analysis on a Washington Post database of police shootings between 2015-2022, done as part of a data science class.
 
-Link to database is provided in the notebook. Find a link to the presentation [here](https://docs.google.com/presentation/d/11YGWTvKNkd0ZKnTIs2UA2QGXnO4diJqh8TytIiSY89Y/mobilepresent?slide=id.p).
+Link to database is provided in the notebook. Find a link to the presentation [here](https://docs.google.com/presentation/d/11YGWTvKNkd0ZKnTIs2UA2QGXnO4diJqh8TytIiSY89Y/edit?usp=sharing).
 
 Potential further applications: could be expanded with a more recent dataset (The Washington Post has continued tracking police shootings since after 2022), and could then be included as part of a larger survey or report on the state of police killings in the US.
 
